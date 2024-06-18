@@ -1,16 +1,14 @@
-## Hi there 👋
+# About me.👋
 
-<!--
-**savioivas/savioivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**savioivas/savioivas** is  ✨ _special_ ✨.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently estudando/aprendendo projetos de ciências de dados
+- 🌱 I’m learning criando projetos em ciencias de dados pela escola EBAC
+- 👯 I’m looking to collaborate on com projetos na área
+- 💬 Ask me about assuntos na area de ciências de dados
+- ⚡ Fun fact: gosto muito de aprender, por isso, estou sempres aperfeiçoando-me 😄
+- ![Cientista de dados]![imagem](https://github.com/savioivas/savioivas/assets/164507954/2cdc72f6-6c6b-4b75-a290-da8053fe9187)
+(.jpg)
